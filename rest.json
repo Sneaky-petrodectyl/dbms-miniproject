@@ -1,0 +1,22 @@
+[
+	{
+		"location" : "Bhayandar",
+		"restaurant" : ["MacD","Dominos","CCD"]
+	},
+	{
+		"location" : "Mira Road",
+		"restaurant" : ["Pizza Hut", "Belgium waffles", "CCD"]
+	},
+	{
+		"location" : "Dahisar",
+		"restaurant" : ["Slush","MacD","Subway"]
+	},
+	{
+		"location" : "Borivali",
+		"restaurant" : ["Slush","Pizza Hut","Subway"]
+ 	},
+	{
+		"location" : "Kandivali",
+		"restaurant" : ["Slush", "Dominos", "Belgium"]
+	}
+]
